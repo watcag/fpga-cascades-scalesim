@@ -53,7 +53,7 @@ As with the previous scheme, the topology csv input to SCALE-Sim is needed to be
 The following steps walks us through the steps to replicate our experiments from the FPL 2019 paper.
 
 ```
-git clone gitlab@git.uwaterloo.ca:watcag-public/fpga-cascades-scalesim.git
+git clone https://github.com/watcag/fpga-cascades-scalesim.git
 TOP=`pwd`/fpga-cascades-scalesim
 cd $TOP
 ```
@@ -397,4 +397,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
