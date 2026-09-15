@@ -1,0 +1,2 @@
+rm -rf scale_runs/*
+touch ./scale_runs/__init__
